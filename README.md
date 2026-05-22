@@ -66,7 +66,7 @@ I am always open to discussing software engineering, systems architecture, and n
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecpp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-trends.com/top-langs?user=henriquecpp&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquecpp&theme=tokyonight&hide_border=true" alt="Activity Graph" />
   <br><br>
