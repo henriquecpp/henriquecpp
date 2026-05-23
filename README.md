@@ -65,7 +65,8 @@ I am always open to discussing software engineering, systems architecture, and n
 
 ### 📊 GitHub Analytics
 
-```text
-Java           ████████████████████████▍ 48.5%
-TypeScript     ██████████████████░░░░░░░ 35.0%
-JavaScript     Layout/Config & Shell     16.5%
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,postgres,dynamodb,aws,terraform,docker,jenkins&theme=dark" alt="My Skills" />
+</div>
