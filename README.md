@@ -66,7 +66,11 @@ I am always open to discussing software engineering, systems architecture, and n
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-metrics.svg">
+    <img alt="GitHub Metrics" src="github-metrics.svg" />
+  </picture>
   <br><br>
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,postgres,dynamodb,aws,terraform,docker,jenkins&theme=dark" alt="My Skills" />
 </div>
