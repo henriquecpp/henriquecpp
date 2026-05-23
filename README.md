@@ -16,11 +16,11 @@
 
 ### 🚀 About Me
 
-I enjoy solving backend scalability challenges, designing resilient distributed systems, and exploring modern cloud-native architectures. 
+I am a **Backend Software Engineer** with 3+ years of experience building distributed systems, RESTful APIs, and cloud infrastructure — with a core focus on Java, Spring Boot, and Node.js. Driven by scalability challenges and modern cloud-native architectures, I thrive on taking ownership of complex problems, mastering new technologies, and building resilient solutions that deliver real-world impact.
 
-* 🏢 Currently focusing on architectural design for Generative AI pipelines and resilient event-driven services.
+* 🏢 Currently architecting Generative AI pipelines and designing resilient, event-driven services.
 * 🎓 Bachelor's degree in Computer Science from **UNIP** and Technical Certificate in IT from **FUCAPI**.
-* 🧠 Focused on writing maintainable code, applying design patterns (SOLID, TDD, etc.), and optimizing overall system performance across high-volume data scenarios.
+* 🧠 Focused on continuous technical growth, applying pragmatic design patterns (SOLID), and optimizing overall system performance across high-volume data scenarios.
 
 ---
 
@@ -65,10 +65,7 @@ I am always open to discussing software engineering, systems architecture, and n
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-trends.com/top-langs?user=henriquecpp&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquecpp&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,postgres,dynamodb,aws,terraform,docker,jenkins&theme=dark" alt="My Skills" />
-</div>
+```text
+Java           ████████████████████████▍ 48.5%
+TypeScript     ██████████████████░░░░░░░ 35.0%
+JavaScript     Layout/Config & Shell     16.5%
