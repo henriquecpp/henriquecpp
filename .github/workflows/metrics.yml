@@ -6,15 +6,9 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
-      - name: Cache Metrics Data
-        uses: actions/cache@v4
-        with:
-          path: .cache
-          key: ${{ runner.os }}-metrics-${{ github.run_id }}
-          restore-keys: |
-            ${{ runner.os }}-metrics-
-
       - name: Generate SVG Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -26,5 +20,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_lines: yes
           config_padding: 0, 8
-          config_output: svg
           filename: github-metrics.svg
