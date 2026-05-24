@@ -20,7 +20,7 @@ I am a **Backend Software Engineer** with 3+ years of experience building distri
 
 * 🏢 Currently architecting Generative AI pipelines and designing resilient, event-driven services.
 * 🎓 Bachelor's degree in Computer Science from **UNIP** and Technical Certificate in IT from **FUCAPI**.
-* 🧠 Focused on continuous technical growth, applying pragmatic design patterns (SOLID), and optimizing overall system performance across high-volume data scenarios.
+* 🧠 Focused on continuous technical growth, applying pragmatic design patterns, and optimizing overall system performance across high-volume data scenarios.
 
 ---
 
